@@ -16,10 +16,9 @@
 
 ---
 
-## 📊 GitHub Stats
-![Likitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likithagowda20&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Likitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likithagowda20&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Likithagowda20&layout=compact&theme=tokyonight)
+![streak](https://github-readme-streak-stats.herokuapp.com?user=Likithagowda20&theme=tokyonight&hide_border=true)
 
 ---
 
