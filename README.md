@@ -16,8 +16,6 @@
 
 ---
 [![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Likithagowda20&theme=tokyonight&hide_border=true)](https://github.com/Likithagowda20)
-![Likitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Likithagowda20&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![streak](https://github-readme-streak-stats.herokuapp.com?user=Likithagowda20&theme=tokyonight&hide_border=true)
 
 ---
