@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=egg&color=6366f1&height=200&text=Hi,%20I'm%20Likitha!%20👋&fontSize=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&text=Hi,%20I'm%20Likitha!%20👋&fontSize=50&fontColor=ffffff)
 
 ## 🤖 Aspiring AI Automation Engineer
 
