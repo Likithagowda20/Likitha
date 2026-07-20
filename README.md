@@ -16,7 +16,7 @@
 
 ---
 
-
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Likithagowda20&theme=tokyonight&hide_border=true)](https://github.com/Likithagowda20)
 
 ---
 
